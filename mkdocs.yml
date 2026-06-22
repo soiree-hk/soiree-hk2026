@@ -1,0 +1,36 @@
+site_name: Soirée HK 2026
+site_url: https://soiree-hk2026.github.io/soiree-hk2026/
+site_description: Premier event experiences in Hong Kong
+site_author: Soirée HK 2026
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: amber
+  font:
+    text: Playfair Display
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - content.tooltips
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Services: services.md
+  - Events: events.md
+  - Contact: contact.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/soiree-hk2026
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/soiree-hk2026
+
+copyright: Copyright &copy; 2026 Soirée HK 2026
