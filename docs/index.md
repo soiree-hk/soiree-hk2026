@@ -1,34 +1,35 @@
-# Welcome to Soirée HK 2026
+# Welcome to SOIRÉE!
 
-**Crafting unforgettable moments in the heart of Hong Kong.**
+**Promoting interdisciplinary activities across continents.**
 
----
-
-## Who We Are
-
-Soirée HK 2026 is a premier event experience company based in Hong Kong. We design and deliver extraordinary events — from intimate private gatherings to large-scale corporate galas — with meticulous attention to detail and a passion for excellence.
+The Society of Interdisciplinary Research (SOIRÉE) is an organisation founded by a group of professionals including scientists, engineers and entrepreneurs. We aim to serve as a platform for interaction and collaboration in interdisciplinary culture, science, technology, and research inter-continent.
 
 ---
 
-## What We Do
+## Upcoming Events
 
-| Service | Description |
-|---|---|
-| 🥂 Corporate Events | Product launches, award ceremonies, company milestones |
-| 🎊 Private Celebrations | Birthdays, anniversaries, bespoke social gatherings |
-| 🤝 Brand Activations | Pop-ups, experiential marketing, curated brand moments |
-| 🍽️ Dining Experiences | Private dining, themed suppers, chef collaborations |
+**Please stay tuned.**
 
 ---
 
-## Why Choose Us
+## Past Events
 
-- **Local Expertise** — Deep roots in Hong Kong's event scene
-- **End-to-End Management** — Concept to execution, all under one roof
-- **Premium Partnerships** — Curated network of venues, caterers, and talent
-- **Bespoke Approach** — Every event is unique, just like our clients
+### [6 ~ 8 May 2025] SOIRÉE Dialogue with Distinguished Scientists
+Aiichiro Nakano, Professor of Computer Science, University of Southern California.
+
+### [13 Oct. 2023] Designing New Materials with Artificial Intelligence
+Alán Aspuru-Guzik, Professor of Chemistry and Computer Science, University of Toronto.
+
+### [23 July 2019] SOIRÉE Dialogue with Distinguished Professor Series
+Yasuteru Shigeta, Professor, Center for Computational Sciences, University of Tsukuba.
 
 ---
 
-[Get in Touch →](contact.md){ .md-button .md-button--primary }
-[Our Services →](services.md){ .md-button }
+[View All Events →](events.md){ .md-button .md-button--primary }
+[Join Us →](membership.md){ .md-button }
+
+---
+
+## Feel free to contact us
+
+**president.soiree@gmail.com**

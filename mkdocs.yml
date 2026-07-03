@@ -1,36 +1,70 @@
-site_name: Soirée HK 2026
-site_url: https://soiree-hk2026.github.io/soiree-hk2026/
-site_description: Premier event experiences in Hong Kong
-site_author: Soirée HK 2026
+site_name: SOIRÉE — Society of Interdisciplinary Research
+site_url: https://soiree-hk.github.io/soiree-hk2026/
+site_description: An organisation founded by scientists, engineers and entrepreneurs to promote interdisciplinary culture, science, technology, and research inter-continent.
+site_author: SOIRÉE
 
 theme:
   name: material
   palette:
     - scheme: default
-      primary: deep purple
-      accent: amber
+      primary: indigo
+      accent: deep orange
   font:
-    text: Playfair Display
+    text: Roboto
     code: Roboto Mono
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.top
     - search.highlight
-    - content.tooltips
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Services: services.md
-  - Events: events.md
+  - About:
+      - About Us: about.md
+      - Mission & Vision: mission.md
+  - News: news.md
+  - Events:
+      - All Events: events.md
+      - Dialogues & Lectures: dialogues.md
+      - 2025:
+          - May 2025 — Aiichiro Nakano: events/2025-may.md
+          - April 2025 — Jinbo Xu: events/2025-april.md
+          - March 2025 — Federico Lauro: events/2025-march.md
+      - 2024:
+          - March 2024 — Kaushik Bhattacharya: events/2024-march.md
+      - 2023:
+          - Oct 2023 — Alán Aspuru-Guzik: events/2023-oct.md
+          - Aug 2023 — Nucleic Acids: events/2023-aug.md
+      - 2022:
+          - Sep 2022 — Jules Schleinitz: events/2022-sep.md
+          - Feb 2022 — Jianwei Miao: events/2022-feb.md
+      - 2021:
+          - Feb 2021 — Philippe Schwaller: events/2021-feb.md
+      - 2020:
+          - Dec 2020 — Zhuang Bilin: events/2020-dec.md
+      - 2019:
+          - Nov 2019 — Martin Pumera: events/2019-nov.md
+          - Sep 2019 — Richmond Sarpong: events/2019-sep.md
+          - Jul 2019 — Yasuteru Shigeta: events/2019-july23.md
+          - Jul 2019 — John Yin: events/2019-july09.md
+          - Jun 2019 — Leslie Schoop: events/2019-june.md
+  - Workshops:
+      - Overview: workshops.md
+      - GW FMD 2018: workshops/gwfmd2018.md
+      - NAST 2023: workshops/nast2023.md
+  - Centers:
+      - Overview: centers/index.md
+      - AiForce: centers/aiforce.md
+      - Art Center: centers/art.md
+      - Watercolor: centers/art-watercolor.md
+      - Photography: centers/art-photography.md
+  - Membership: membership.md
   - Contact: contact.md
 
 extra:
   social:
-    - icon: fontawesome/brands/instagram
-      link: https://instagram.com/soiree-hk2026
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/company/soiree-hk2026
+    - icon: fontawesome/regular/envelope
+      link: mailto:president.soiree@gmail.com
 
-copyright: Copyright &copy; 2026 Soirée HK 2026
+copyright: "© Society of Interdisciplinary Research — SOIRÉE. These images are subject to copyright. Please contact SOIRÉE for permission and licensing information."
